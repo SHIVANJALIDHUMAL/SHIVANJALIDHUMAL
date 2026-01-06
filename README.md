@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Embedded%20Systems%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h2 align="center">Hi 👋 I'm an Embedded Systems Developer</h2>
-
 <p align="center">
   <i>Building reliable firmware • Exploring RTOS • Bridging hardware & software</i>
 </p>
