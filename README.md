@@ -9,7 +9,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 🔹 Embedded Systems Developer with hands-on experience in **low-level firmware**  
 🔹 Strong foundation in **Embedded C, C & C++**  
@@ -23,9 +23,9 @@
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
-### 👨‍💻 Programming Languages
+### Programming Languages
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="35"/>
@@ -38,7 +38,7 @@
 
 ---
 
-### ⚙️ Embedded & Systems
+### Embedded & Systems
 <p>
   <img src="https://img.icons8.com/color/48/processor.png" height="35"/>
   <img src="https://img.icons8.com/color/48/settings.png" height="35"/>
@@ -52,7 +52,7 @@
 
 ---
 
-### 🌐 Networking
+###  Networking
 <p>
   <img src="https://img.icons8.com/color/48/network.png" height="35"/>
   <img src="https://img.icons8.com/color/48/cloud.png" height="35"/>
@@ -64,7 +64,7 @@
 
 ---
 
-### 🔌 Hardware & Interfaces
+###  Hardware & Interfaces
 <p>
   <img src="https://img.icons8.com/color/48/usb-connector.png" height="35"/>
   <img src="https://img.icons8.com/color/48/electronics.png" height="35"/>
@@ -79,7 +79,7 @@
 
 ---
 
-### 🧰 Tools & Platforms
+###  Tools & Platforms
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="35"/>
@@ -94,7 +94,7 @@
 
 ---
 
-## 🚀 What I’m Working On
+##  What I’m Working On
 
 - 🧩 Embedded firmware projects using **RTOS**
 - 🧪 Hardware interfacing and driver-level coding
